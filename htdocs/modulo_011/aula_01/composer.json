@@ -1,0 +1,6 @@
+{
+    "require": {
+        "nesbot/carbon": "^3.3",
+        "nickdnk/graph-sdk": "^7.0"
+    }
+}

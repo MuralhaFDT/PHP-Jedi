@@ -1,0 +1,5 @@
+{
+    "require": {
+        "nickdnk/graph-sdk": "^7.0"
+    }
+}
